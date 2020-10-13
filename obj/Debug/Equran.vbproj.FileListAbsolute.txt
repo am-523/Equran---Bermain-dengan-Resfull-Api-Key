@@ -1,0 +1,19 @@
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\Resfull Api equran.id.exe.config
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\Resfull Api equran.id.exe
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\Resfull Api equran.id.pdb
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\Resfull Api equran.id.xml
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\Newtonsoft.Json.dll
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\System.Net.Http.Extensions.dll
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\System.Net.Http.Primitives.dll
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\Newtonsoft.Json.xml
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\System.Net.Http.Extensions.xml
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\bin\Debug\System.Net.Http.Primitives.xml
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Equran.vbproj.App.config
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Jadwal_Sholat.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Jadwal_Sholat.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Equran.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Equran.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Equran.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Resfull Api equran.id.exe
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Resfull Api equran.id.xml
+D:\AW 17\Source Code Visual Studio 19\Jadwal Sholat\obj\Debug\Resfull Api equran.id.pdb
