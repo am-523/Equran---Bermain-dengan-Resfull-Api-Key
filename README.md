@@ -1,0 +1,1 @@
+# Equran---Bermain-dengan-Resfull-Api-Key
